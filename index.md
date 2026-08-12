@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to my blog-to-be.
 
-Maybe say a some things about yourself.
+Telecom engineer with a passion for security.
 
-Or maybe what you plan to blog about.
+Aim of this blog is to document my journey and projects, whilst hopefully learning things on the way.
